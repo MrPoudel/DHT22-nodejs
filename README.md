@@ -4,4 +4,4 @@
 
 
 Reference:
-![Node.js on Raspi](https://www.linux-magazine.com/Online/Features/Reporting-Rasp-Pi-Data-on-a-Node.js-Web-Server)
+[Node.js on Raspi](https://www.linux-magazine.com/Online/Features/Reporting-Rasp-Pi-Data-on-a-Node.js-Web-Server)

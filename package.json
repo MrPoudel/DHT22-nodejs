@@ -1,0 +1,23 @@
+{
+  "name": "dht_server",
+  "version": "1.0.0",
+  "description": "This is a demo project on node.js. Actually, I'm working with the node.js for the first time and this is my firs project.",
+  "main": "server_basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bal K.",
+  "license": "MIT",
+  "keywords": [
+    "temperature",
+    "humidity",
+    "DHT",
+    "Raspberry",
+    "Pi",
+    "web"
+  ],
+  "dependencies": {
+    "node-dht-sensor": "^0.4.1"
+  },
+  "devDependencies": {}
+}
